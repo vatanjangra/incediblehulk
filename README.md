@@ -1,6 +1,6 @@
 # incrediblehulk
 
-This is small game to demonstrate the usage of Phaser for game development.
+This is small game to demonstrate the usage of Phaser for game development. It is a infinite running/jumping game.
 
 ##Instructions
 1.Download or clone the repository.
