@@ -6,7 +6,7 @@ This is small game to demonstrate the usage of Phaser for game development. It i
 1.Download or clone the repository.
 
 
-2.Directly open the file www/index.html in your web browser and start playing.
+2.Directly open the file index.html in your web browser and start playing.
 
 Let me know your highest score.
 
